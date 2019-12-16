@@ -34,8 +34,6 @@ p {font-family: sans-serif;
                font-weight: bold;
                color: white;}
 
-li.active {position:absolute; right:0;}
-li.dropdown {position:fixed; right:0;}
 
 @media (max-width: 480px) {
   .navbar {background-color: rgb(12, 173, 167);}
