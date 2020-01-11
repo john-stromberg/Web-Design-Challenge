@@ -10,11 +10,15 @@ h3 {color: rgb(12, 173, 167);
     font-family: times new roman;
     font-weight: bold;}
 
+h5 {color: rgb(12, 173, 167);
+    background-color: white;
+    font-family: times new roman;
+    font-weight: bold;}  
+
 header {color: rgb(12, 173, 167);
     background-color: white;
     font-family: times new roman;
     font-weight: bold;}
-
 
 img {padding-top: 10px;
     padding-right: 20px;
